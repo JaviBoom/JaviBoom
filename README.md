@@ -1,4 +1,4 @@
-## Hola, soy Javier 👋
+## Hola, soy Javier
 
 Estudiante de último curso de Ingeniería Informática (Universidad Pablo de Olavide, Sevilla). Construyo productos de principio a fin, de la base de datos a la interfaz, y tengo dos aplicaciones en producción.
 
@@ -19,4 +19,4 @@ Estudiante de último curso de Ingeniería Informática (Universidad Pablo de Ol
 
 [scalar2002@outlook.es](mailto:scalar2002@outlook.es) · [LinkedIn](https://www.linkedin.com/in/javier-merino-798192224/)
 
-<sub>🇬🇧 Final-year Computer Engineering student in Seville with two apps in production. English CV on my [portfolio](https://portafolio-javiermerino-delta.vercel.app).</sub>
+<sub>In English: final-year Computer Engineering student in Seville with two apps in production. English CV on my [portfolio](https://portafolio-javiermerino-delta.vercel.app).</sub>
